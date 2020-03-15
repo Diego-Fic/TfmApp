@@ -1,0 +1,7 @@
+com\tfmapp\model\repository\impl\ConfigureLdapConnectionRepositoryImpl.class
+com\tfmapp\model\repository\data\Teacher.class
+com\tfmapp\model\repository\data\Student.class
+com\tfmapp\model\common\ExceptionConstants.class
+com\tfmapp\model\common\Constants.class
+com\tfmapp\model\repository\data\Admin.class
+com\tfmapp\model\service\ServiceAuthLdap.class
