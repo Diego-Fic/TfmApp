@@ -1,7 +1,11 @@
+C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\service\authentication\ServiceAuthLdap.java
 C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\repository\data\Admin.java
-C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\repository\impl\ConfigureLdapConnectionRepositoryImpl.java
-C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\service\ServiceAuthLdap.java
+C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\repository\data\ldap\UserLdap.java
+C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\service\authentication\ServiceAuthLdapImpl.java
 C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\common\ExceptionConstants.java
 C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\repository\data\Teacher.java
 C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\common\Constants.java
+C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\repository\impl\ldap\ConfigureLdapConnectionRepository.java
+C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\mapper\UserLdapMapper.java
+C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\repository\impl\ldap\ConfigureLdapConnectionRepositoryImpl.java
 C:\Users\Diego\Desktop\TFM\Workspace\TfmApp\TfmApp-model\src\main\java\com\tfmapp\model\repository\data\Student.java
