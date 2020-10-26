@@ -20,7 +20,7 @@
 		<module>tfmapp-model</module>
 		<module>tfmapp-boot</module>
 		<module>tfmapp-ws</module>
-	<!-- <module>tfmapp-api</module> -->
+		<!-- <module>tfmapp-api</module> -->
 		<!-- <module>tfmapp-ms</module> -->
 	</modules>
 
@@ -32,7 +32,11 @@
 	<dependencyManagement>
 		<dependencies>
 
-
+			<dependency>
+				<groupId>org.json</groupId>
+				<artifactId>json</artifactId>
+				<version>20200518</version>
+			</dependency>
 
 			<dependency>
 				<groupId>org.springframework.boot</groupId>

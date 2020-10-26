@@ -1,0 +1,25 @@
+{
+  "name": "clienteappwebnode",
+  "version": "1.0.0",
+  "description": "TFM Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Otero González",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "0.4.16",
+    "body-parser": "1.19.0",
+    "cookie-parser": "1.4.5",
+    "ejs": "3.0.2",
+    "express": "4.17.1",
+    "express-session": "1.17.1",
+    "moment": "2.27.0",
+    "open": "7.3.0",
+    "path": "0.12.7",
+    "rand-token": "1.0.1",
+    "request": "2.88.2",
+    "xterm": "4.9.0"
+  }
+}
