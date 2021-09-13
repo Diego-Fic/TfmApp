@@ -1,0 +1,13 @@
+com\tfmapp\model\service\usersLdap\updateDBWithLdapData.class
+com\tfmapp\model\service\db\ServiceDB.class
+com\tfmapp\model\service\db\ServiceDBImpl.class
+com\tfmapp\model\repository\data\files_directory\Directory.class
+com\tfmapp\model\common\Constants.class
+com\tfmapp\model\service\authentication\ServiceAuthLdap.class
+com\tfmapp\model\service\usersLdap\updateDBWithLdapDataImpl.class
+com\tfmapp\model\service\filesFinder\ServiceFilesFinderImpl.class
+com\tfmapp\model\service\filesFinder\ServiceFilesFinder.class
+com\tfmapp\model\repository\data\files_directory\Document.class
+com\tfmapp\model\service\authentication\ServiceAuthLdapImpl.class
+com\tfmapp\model\common\ExceptionConstants.class
+com\tfmapp\model\repository\data\ldap\UserLdap.class

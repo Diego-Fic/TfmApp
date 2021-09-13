@@ -1,0 +1,4 @@
+com\tfmapp\ws\controller\db\DBRestControllerImpl.class
+com\tfmapp\ws\controller\db\DBRestController.class
+com\tfmapp\ws\controller\ldap\UserLdapRestController.class
+com\tfmapp\ws\controller\ldap\UserLdapRestControllerImp.class
