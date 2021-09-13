@@ -1,0 +1,42 @@
+{
+  "name": "cliente-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "0.21.1",
+    "chart.js": "2.9.4",
+    "serialport": "9.2.1",
+    "vue": "2.6.14",
+    "vue-axios": "3.2.5",
+    "vue-body-class": "3.0.2",
+    "vue-material": "1.0.0-beta-7",
+    "vue-router": "^3.2.0",
+    "vue-socket.io": "3.0.10",
+    "vuetable-2": "2.0.0-beta.4",
+    "vuetify": "^2.4.0",
+    "vuex": "3.6.2",
+    "vuex-persistedstate": "4.0.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "5.9.55",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "autoprefixer": "9.8.6",
+    "postcss": "7.0.36",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@2.2.7",
+    "vue-cli-plugin-vuetify": "2.4.2",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

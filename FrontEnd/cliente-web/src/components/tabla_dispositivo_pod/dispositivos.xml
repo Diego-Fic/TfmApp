@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <dispositivo>
+        <serial_number>123456</serial_number>
+        <nombre_dispositivo>device_1</nombre_dispositivo>
+        <tipo_dispositivo>Router</tipo_dispositivo>
+        <rol_dispositivo>ACTIVO</rol_dispositivo>
+    </dispositivo>
+    <dispositivo>
+        <serial_number>12345</serial_number>
+        <nombre_dispositivo>device_2</nombre_dispositivo>
+        <tipo_dispositivo>Router</tipo_dispositivo>
+        <rol_dispositivo>ACTIVO</rol_dispositivo>
+    </dispositivo>
+</root>
